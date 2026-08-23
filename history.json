@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "week": "18.08.2026 — 24.08.2026",
+    "status": "history",
+    "source": "Моё питание v7.1",
+    "preserved": ["menu", "recipes", "shopping"]
+  },
+  {
+    "week": "24.08.2026 — 30.08.2026",
+    "status": "current",
+    "preserved": ["menu", "recipes", "shopping"]
+  }
+]
