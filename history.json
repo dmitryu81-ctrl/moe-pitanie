@@ -7,6 +7,11 @@
   },
   {
     "week": "24.08.2026 — 30.08.2026",
+    "status": "history",
+    "preserved": ["menu", "recipes", "shopping"]
+  },
+  {
+    "week": "31.08.2026 — 06.09.2026",
     "status": "current",
     "preserved": ["menu", "recipes", "shopping"]
   }
