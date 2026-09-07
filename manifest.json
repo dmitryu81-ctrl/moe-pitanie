@@ -1,7 +1,9 @@
 {
   "name": "Моё питание",
-  "short_name": "Питание",
+  "short_name": "Моё питание",
+  "lang": "ru",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#fff7ea",
   "theme_color": "#718b55",
